@@ -1,7 +1,7 @@
 
 # CSE 60567 - Git Repository for Computer Security Homework Assignments README
 
-I've organized my homework assignments into a Google Colab notebook for easy access and readability. Each section of the notebook corresponds to a different topic:
+I've organized my homework assignments into a Google Colab notebook (Computer_Security_HW2.ipynb) for easy access and readability. Each section of the notebook corresponds to a different topic:
 
 1. **Vigenère Cipher Attack**
 2. **RSA Algorithm Decryption**
